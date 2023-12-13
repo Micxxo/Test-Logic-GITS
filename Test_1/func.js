@@ -12,7 +12,7 @@ const generate = (length) => {
 	for (let i = 1; i <= length; i++) {
 		let num = calculateNum(i);
 
-		// Karena di contoh output pada soal, output asli dikurangi 1, 2, 3, ... maka:
+		// Karena di contoh output pada soal, output asli dengan index > 0 dikurangi 1, 2, 3, ... maka:
 		if (i > 1) {
 			num -= i - 1;
 		}
