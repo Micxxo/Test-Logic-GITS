@@ -18,7 +18,6 @@ function denseRanking(scores, gitsScores) {
 	return result;
 }
 
-// Mendapatkan input dari pengguna
 let readline = require('readline');
 let rl = readline.createInterface({
 	input: process.stdin,
