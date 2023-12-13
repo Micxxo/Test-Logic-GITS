@@ -1,7 +1,7 @@
 Kompleksitas kodingan = O(log n)
 
 --------------------------------------
-A000124_sloane_oeis.js = 2.9969492485
-dense_ranking.js = 3.17840134153
-balanced_bracket.js = 2.82542611777
+A000124_sloane_oeis = 2.9969492485
+dense_ranking = 3.17840134153
+balanced_bracket = 2.82542611777
 --------------------------------------
